@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Data.deps.json
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Data.dll
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Data.pdb
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.dll
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\refint\Northwind.Data.dll
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.pdb
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\ref\Northwind.Data.dll
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Data.runtimeconfig.json
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Models.dll
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\bin\Debug\net7.0\Northwind.Models.pdb
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.csproj.CopyComplete
+C:\Users\pc\source\repos\EFCoreLinq\Northwind.Data\obj\Debug\net7.0\Northwind.Data.genruntimeconfig.cache
